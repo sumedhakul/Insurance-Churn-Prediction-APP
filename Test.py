@@ -7,16 +7,6 @@ import pickle
 import base64
 
 
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import plotly.express as px
-import matplotlib.pyplot as plt
-import geopandas as gpd
-# folium for interactive maps
-import folium
-
 
 ####################
 
